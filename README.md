@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Student Management System**
+- 🔭 Currently working on ** Banking Program **
 - 🌱 Learning **advanced SQL, backend development & system design**
 - 💡 Passionate about building clean, efficient, and scalable data solutions
 - 🤝 Open to **collaborations, internships & opportunities**
