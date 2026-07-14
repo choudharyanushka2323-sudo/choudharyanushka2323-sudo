@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on ** Banking Program **
+- 🔭 Build  ** Banking Application  **
 - 🌱 Learning **advanced SQL, backend development & system design**
 - 💡 Passionate about building clean, efficient, and scalable data solutions
 - 🤝 Open to **collaborations, internships & opportunities**
