@@ -53,11 +53,11 @@
 
 ### [Banking Program ( Java Console Application ) ] (https://github.com/choudharyanushka2323-sudo/Banking)
 This project let me dig into some core Java concepts I wanted to strengthen:
-✅ Menu-driven program flow using Scanner
- ✅ Modern switch expressions (Java 14+ arrow syntax)
- ✅ Static methods with parameter passing
- ✅ Input validation (no negative deposits, no overdrafts!)
- ✅ Clean separation of logic — showBalance(), deposit(), withdraw()
+ --✅ Menu-driven program flow using Scanner
+-- ✅ Modern switch expressions (Java 14+ arrow syntax)
+-- ✅ Static methods with parameter passing
+ --✅ Input validation (no negative deposits, no overdrafts!)
+ --✅ Clean separation of logic — showBalance(), deposit(), withdraw()
 
 
 
