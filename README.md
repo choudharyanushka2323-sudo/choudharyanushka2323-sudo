@@ -49,7 +49,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
 ### [Banking Program ( Java Console Application ) ] (https://github.com/choudharyanushka2323-sudo/Banking)
 This project let me dig into some core Java concepts I wanted to strengthen:
@@ -61,13 +61,6 @@ This project let me dig into some core Java concepts I wanted to strengthen:
 
 
 
-### 🎓 [Student Management System](https://github.com/choudharyanushka2323-sudo/Student-management-)
-> A relational database system built from the ground up
-
-- ✅ Manages **5,000+ student records**
-- ✅ Handles enrollment, grades & personal data
-- ✅ Achieved **98% query accuracy** across all DML/DDL operations
-- ✅ Built with clean schema design & optimized queries
 
 ---
 
