@@ -1,13 +1,13 @@
 # Hi, I'm Anushka 👋
 
-🎓 Computer Science Student | 💾 Database Enthusiast | 🛠️ Backend Developer
+🎓 Engineering  Student | 💾 Database Enthusiast | 🛠️ Backend Developer
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Build  ** Banking Application  **
-- 🌱 Learning **advanced SQL, backend development & system design**
+- 🔭 Building   ** game   **
+- 🌱 Skilled in  **advanced SQL, backend development , java , spring boot  & system design**
 - 💡 Passionate about building clean, efficient, and scalable data solutions
 - 🤝 Open to **collaborations, internships & opportunities**
 - 📍 India
@@ -49,7 +49,17 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### [Banking Program ( Java Console Application ) ] (https://github.com/choudharyanushka2323-sudo/Banking)
+This project let me dig into some core Java concepts I wanted to strengthen:
+✅ Menu-driven program flow using Scanner
+ ✅ Modern switch expressions (Java 14+ arrow syntax)
+ ✅ Static methods with parameter passing
+ ✅ Input validation (no negative deposits, no overdrafts!)
+ ✅ Clean separation of logic — showBalance(), deposit(), withdraw()
+
+
 
 ### 🎓 [Student Management System](https://github.com/choudharyanushka2323-sudo/Student-management-)
 > A relational database system built from the ground up
