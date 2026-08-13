@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Building   ** Alarm clock   **
+- 🔭 Building   ** Something Big   **
 - 🌱 Skilled in  **advanced SQL, backend development , java , spring boot  & system design**
 - 💡 Passionate about building clean, efficient, and scalable data solutions
 - 🤝 Open to **collaborations, internships & opportunities**
