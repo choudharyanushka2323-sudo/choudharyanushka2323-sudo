@@ -7,6 +7,7 @@
 ## 🚀 About Me
 
 - 🔭 Building   ** Something Big   **
+- ✍️ Learning Python 
 - 🌱 Skilled in  **advanced SQL, backend development , java , spring boot  & system design**
 - 💡 Passionate about building clean, efficient, and scalable data solutions
 - 🤝 Open to **collaborations, internships & opportunities**
