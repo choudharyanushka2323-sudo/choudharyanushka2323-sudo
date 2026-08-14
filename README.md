@@ -52,7 +52,7 @@
 
 ## 📌 Featured Project
 
-### [Banking Program ( Java Console Application ) ] (https://github.com/choudharyanushka2323-sudo/Banking)
+### [Page - pulse ] ( https://github.com/choudharyanushka2323-sudo/page-pulse )
 This project let me dig into some core Java concepts I wanted to strengthen:
  --✅ Menu-driven program flow using Scanner
 -- ✅ Modern switch expressions (Java 14+ arrow syntax)
