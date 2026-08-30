@@ -24,7 +24,7 @@
 **Database:** MySQL · RDBMS · System Design
 **Tools:** Git · GitHub · VS Code · IntelliJ IDEA
 
----
+-----
 
 ### 📌 Featured Project
 
