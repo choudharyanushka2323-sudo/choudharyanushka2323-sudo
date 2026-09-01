@@ -1,4 +1,4 @@
-# Hi, I'm Anushka 👋
+## Hi, I'm Anushka 👋
 
 🎓 Engineering Student &nbsp;|&nbsp; 💾 Database Enthusiast &nbsp;|&nbsp; 🛠️ Backend Developer
 
