@@ -81,7 +81,7 @@ An AI-powered application that processes and analyzes web/content data to genera
 * Collaborated with developers to understand requirements and implement technical solutions
 * Strengthened practical understanding of **Java development and software engineering practices**
 
----
+-----
 
 ## 🎓 Education
 
