@@ -45,7 +45,7 @@ I enjoy building practical applications, solving technical problems, investigati
 
 `REST APIs` `Git` `GitHub` `VS Code` `IntelliJ IDEA`
 
----
+-----
 
 ## 📌 Featured Project
 
