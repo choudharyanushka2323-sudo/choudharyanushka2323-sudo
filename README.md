@@ -6,7 +6,7 @@ I'm a BCA student specializing in **Artificial Intelligence & Machine Learning**
 
 I enjoy building practical applications, solving technical problems, investigating bugs, and continuously improving my skills through hands-on development.
 
----
+-----
 
 ## 🚀 About Me
 
