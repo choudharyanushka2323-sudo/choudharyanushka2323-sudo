@@ -66,7 +66,7 @@ An AI-powered application that processes and analyzes web/content data to genera
 
 🔗 **[View Page Pulse Repository](https://github.com/choudharyanushka2323-sudo/page-pulse)**
 
----
+-----
 
 ## 💼 Experience
 
