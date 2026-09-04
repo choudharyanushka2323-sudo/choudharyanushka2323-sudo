@@ -115,7 +115,7 @@ I'm currently seeking **short-term internship opportunities (4–12 weeks)** in:
 
 I'm open to **remote, hybrid, and on-site opportunities** and available to start on short notice.
 
----
+-----
 
 ## 📫 Let's Connect
 
