@@ -102,7 +102,7 @@ Relevant Coursework:
 * 📊 **Data Analytics — Deloitte**
 * 🍃 **MongoDB Skill Badge — Credly**
 
----
+-----
 
 ## 🎯 Currently Looking For
 
