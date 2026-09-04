@@ -95,7 +95,7 @@ Relevant Coursework:
 
 `Data Structures & Algorithms` · `DBMS` · `Java` · `Python` · `SQL` · `AI/ML` · `Computer Programming`
 
----
+-----
 
 ## 🏆 Certifications & Achievements
 
