@@ -127,7 +127,7 @@ I'm open to **remote, hybrid, and on-site opportunities** and available to start
 
 📍 **Bijnor, Uttar Pradesh, India**
 
----
+-----
 
 ⭐ **Always learning. Always building. Always improving.**
 
