@@ -21,7 +21,7 @@ I enjoy building practical applications, solving technical problems, investigati
 * 🤝 Open to **software engineering, Java, backend, and AI/ML internship opportunities**
 * 📍 Bijnor, Uttar Pradesh, India
 
----
+-----
 
 ## 🛠️ Tech Stack
 
